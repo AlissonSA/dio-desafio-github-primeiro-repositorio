@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Alisson Albuquerque</title>
+	</head>
+	<body>
+		<header>
+			<img src="Alisson.jpg" alt="Foto de Alisson na UNICAP">
+			<h1 id="title">Alisson Albuquerque</h1>
+			<link rel="stylesheet" href="style.css">
+		</header>
+		<section>
+			<header>
+				<h2 class="subtitle">Posts</h2>
+			</header>
+			<article>
+				<header>
+					<h3 class="post_title">Post #1</h3>
+					<img src="html_code.jpg" alt="Imagem de parte de um código HTML">
+				</header>
+				<p class="post_content">
+				Uma boa <a href="https://pt.wikipedia.org/wiki/Estrat%C3%A9gia" target="_blank">estratégia</a>, bem executada e 
+			que dissimula fraqueza sempre surpreende.
+			</p>
+			<p>
+			<a href="mailto:albuquerquealisson@hotmail.com">E-mail: albuquerquealisson@hotmail.com</a>
+			</p>
+			</article class="post">
+		</section>
+		<footer>
+			<ol>
+				<li>
+					<a href="mailto:albuquerquealisson@hotmail" target="_blank">
+					albuquerquealisson@hotmail
+					</a>
+				</li>
+				<li>
+					<a href="https://www.linkedin.com/in/albuquerquealisson/" target="_blank">LinkedIn</a>
+				</li>
+				<li>
+					<a href="https://github.com/AlissonSA">GitHub</a>
+				</li>
+			</ol>
+		</footer>
+	</body>
+</html>
