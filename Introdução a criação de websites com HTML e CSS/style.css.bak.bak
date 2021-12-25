@@ -1,9 +1,8 @@
-body {
-	background-color: red;
+body (
 	.background-color:#fcfcfc;
 	.font-family: Verdana;
 	.width: 900px;
-	}
+	)
 
 .photo (
 	.border: 5px solid blue;
