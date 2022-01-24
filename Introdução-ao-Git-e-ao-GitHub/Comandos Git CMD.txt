@@ -8,7 +8,7 @@ mkdir - Criar pasta
 echo > - Cria um output (um arquivo)
 del - deletar arquivos (conteúdo da pasta, apenas e não uma pasta/repositório)
 rmdir - Remover Diretório
-/S /Q - Flex (???)
+/S /Q - Flex
 -a - flag
 
 
